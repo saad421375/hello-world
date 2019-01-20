@@ -1,2 +1,2 @@
-# hello-world
-this is a new repository
+compare word matching numbers from arabic text in Python
+
